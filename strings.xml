@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI O\'quvchi Yordamchisi</string>
+    <string name="select_subject">Fan tanlang</string>
+    <string name="enter_question">Savolingizni kiriting…</string>
+    <string name="get_answer">Javob olish</string>
+    <string name="clear_chat">Chatni tozalash</string>
+    <string name="copy_answer">Javobni nusxalash</string>
+    <string name="loading">Yuklanmoqda…</string>
+    <string name="error_empty_question">Iltimos, savol kiriting</string>
+    <string name="error_select_subject">Iltimos, fan tanlang</string>
+    <string name="error_network">Tarmoq xatosi. Internetga ulanishni tekshiring.</string>
+    <string name="error_api">Xatolik yuz berdi. Iltimos, qaytadan urinib ko\'ring.</string>
+    <string name="copied_to_clipboard">Nusxalandi</string>
+    <string name="chat_cleared">Chat tozalandi</string>
+    <string name="you">Siz</string>
+    <string name="ai">AI O\'qituvchi</string>
+    <string name="api_key_dialog_title">API Kalitini kiriting</string>
+    <string name="api_key_hint">OpenAI API kalitingiz</string>
+    <string name="save">Saqlash</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="api_key_saved">API kaliti saqlandi</string>
+    <string name="settings">Sozlamalar</string>
+    
+    <string-array name="subjects">
+        <item>Matematika</item>
+        <item>Ingliz tili</item>
+        <item>Fizika</item>
+        <item>Tarix</item>
+    </string-array>
+</resources>
